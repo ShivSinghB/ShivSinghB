@@ -15,7 +15,10 @@
 </div>
 
 ---
-## 💫 About Me
+## 💫 About Me                   <div align="start">
+  <h3>👀 Visitor Count</h3>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen" alt="Visitor Count" />
+</div>
 
 🎯 **Currently Building:**  
 Crafting immersive web experiences using **GSAP**, **ScrollTrigger**, **React**, and **Spring Boot**.
