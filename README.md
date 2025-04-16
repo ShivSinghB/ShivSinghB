@@ -66,13 +66,11 @@ I blend **code + creativity** to build websites that don’t just work — they 
 
 ---
 
-<div class="eye-container" align="center">
+<div align="center">
   <h3>👀 Visitor Count</h3>
-  <div class="eye">
-    <div class="pupil"></div>
-  </div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen" alt="Visitor Count" />
 </div>
+
 
 ---
 
