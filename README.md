@@ -66,11 +66,13 @@ I blend **code + creativity** to build websites that don’t just work — they 
 
 ---
 
-<div align="center">
-  <h3>👀 Visitor Count</h3>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen" alt="Visitor Count" />
+<div align="center" style="font-family: Arial, sans-serif; background-color: #f7f7f7; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <h3 style="font-size: 24px; color: #333; margin-bottom: 10px;">👀 Visitor Count</h3>
+  <div style="width: 100px; height: 100px; border-radius: 50%; background: #fff; border: 5px solid #000; position: relative; margin-bottom: 20px; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <div style="width: 30px; height: 30px; background: #000; border-radius: 50%; position: absolute;"></div>
+  </div>
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen)
 </div>
-
 
 ---
 
