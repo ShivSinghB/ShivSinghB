@@ -67,7 +67,8 @@ I blend **code + creativity** to build websites that don’t just work — they 
 ---
 
 <div align="start">
-  <h3>👀 Visitor Count</h3>
+  <h3>Visitor Count</h3>
+  <img src="https://cdn.pixabay.com/animation/2023/03/21/10/41/10-41-09-561_512.gif"  alt="" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen" alt="Visitor Count" />
 </div>
 
