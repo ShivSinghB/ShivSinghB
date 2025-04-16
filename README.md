@@ -69,9 +69,7 @@ I blend **code + creativity** to build websites that don’t just work — they 
 ### 📍 Visitor Count
 
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ShivSinghB&label=Visitors&color=12&icon=10&pretty=true" />
-  </a>
+![Visitor Count](https://profile-counter.glitch.me/ShivSinghB/count.svg)
 </p>
 
 
