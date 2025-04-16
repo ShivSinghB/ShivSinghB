@@ -7,8 +7,9 @@
   </a>
 </p>
 
-<div align="start">
+<div align="start" display="flex">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen" alt="Visitor Count" />
+   <h3>👀 Visitor Count</h3>
 </div>
 
 ---
