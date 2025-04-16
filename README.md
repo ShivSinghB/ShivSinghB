@@ -8,9 +8,25 @@
 </p>
 
 ---
+## 💫 About Me
 
-# 💫 About Me:
-🔭 I’m currently working on GSAP, ScrollTrigger, React, and Spring Boot.<br>👯 I’m looking to collaborate on creative UI/UX projects, scalable backend systems, and real-world web apps.<br>🤝 I’m looking for help with scalable backend systems and advanced animation workflows.<br>🌱 I’m currently learning React Native.<br>💬 Ask me about Spring Boot, Node.js, React, Tailwind CSS, or motion design tools like GSAP & Lenis.<br>⚡ Fun fact : I mix code with creativity to make websites that feel ALIVE! ⚡
+🎯 **Currently Building:**  
+Crafting immersive web experiences using **GSAP**, **ScrollTrigger**, **React**, and **Spring Boot**.
+
+🤝 **Looking to Collaborate On:**  
+- ⚡ Creative & responsive **UI/UX projects**  
+- ⚙️ Scalable **backend systems**  
+- 🌐 Real-world **web applications**
+
+🧠 **Currently Exploring:**  
+- 📱 Mobile app dev with **React Native**  
+- 🔧 Advanced **animation workflows**
+
+💬 **Ask Me About:**  
+**Spring Boot**, **Node.js**, **React**, **Tailwind CSS**, or motion magic with **GSAP**, **Lenis**, and **anime.js**
+
+🎨 **Fun Fact:**  
+I blend **code + creativity** to build websites that don’t just work — they **come alive** ⚡🚀
 
 
 ## 🌐 Socials:
