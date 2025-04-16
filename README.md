@@ -66,11 +66,10 @@ I blend **code + creativity** to build websites that don’t just work — they 
 
 ---
 
-### 📍 Visitor Count
+### 👀 Visitor Count
 
-<p align="center">
 ![Visitor Count](https://profile-counter.glitch.me/ShivSinghB/count.svg)
-</p>
+
 
 
 ---
