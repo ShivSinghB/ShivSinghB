@@ -70,7 +70,7 @@ I blend **code + creativity** to build websites that don’t just work — they 
 
 <p align="center">
 <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=antic-portfolio&label=Visitors&color=12&icon=5&pretty=true" alt="Visitor Counter" />
+    <img src="https://visitcount.itsvg.in/api?id=ShivSinghB&label=Visitors&color=12&icon=10&pretty=true" />
   </a>
 </p>
 
