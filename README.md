@@ -66,9 +66,10 @@ I blend **code + creativity** to build websites that don’t just work — they 
 
 ---
 
-### 👀 Visitor Count
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen)
+<div align="center">
+  <h3>👀 Visitor Count</h3>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen" alt="Visitor Count" />
+</div>
 
 ---
 
