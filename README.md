@@ -68,9 +68,7 @@ I blend **code + creativity** to build websites that don’t just work — they 
 
 ### 👀 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/ShivSinghB/count.svg)
-
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen)
 
 ---
 
