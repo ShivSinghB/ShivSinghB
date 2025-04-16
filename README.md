@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=07D69B&center=true&width=435&lines=Full+Stack+Developer;Code.+Learn.+Build." alt="Typing SVG" />
   </a>
 </p>
+
 ---
 ## 💫 About Me                   
 
