@@ -8,7 +8,6 @@
 </p>
 
 <div align="start">
-  <h3>👀 Visitor Count</h3>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen" alt="Visitor Count" />
 </div>
 
