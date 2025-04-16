@@ -74,45 +74,5 @@ I blend **code + creativity** to build websites that don’t just work — they 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivSinghB&title=GitHub%20Profile%20Views&color=brightgreen" alt="Visitor Count" />
 </div>
 
-.eye-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-}
-
-.eye {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  background: #fff;
-  border: 5px solid #000;
-  position: relative;
-  margin-bottom: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-.pupil {
-  width: 30px;
-  height: 30px;
-  background: #000;
-  border-radius: 50%;
-  position: absolute;
-  transition: transform 0.1s ease;
-}
-
-h3 {
-  margin: 0;
-  font-size: 24px;
-  font-weight: bold;
-  color: #333;
-}
-
-
 ---
 
