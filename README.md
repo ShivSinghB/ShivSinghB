@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ShivSinghB">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&width=435&lines=Full+Stack+Developer;Code.+Learn.+Build." alt="Typing SVG" style="background-color: #ffffff; padding: 10px; border-radius: 8px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFE0&center=true&width=435&lines=Full+Stack+Developer;Code.+Learn.+Build." alt="Typing SVG" />
   </a>
 </p>
 
