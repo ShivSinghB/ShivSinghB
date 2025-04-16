@@ -69,9 +69,9 @@ I blend **code + creativity** to build websites that don’t just work — they 
 ### 📍 Visitor Count
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ShivSinghB&label=Profile%20Views&icon=10&pretty=true" />
-  </a>
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ShivSinghB&label=Profile%20Views&icon=10&pretty=true" alt="Visitor Count" />
+</a>
 </p>
 
 
