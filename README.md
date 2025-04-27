@@ -72,8 +72,7 @@ I blend **code + creativity** to build websites that don’t just work — they 
         
 <br />
         
-![Visitors](https://visitcount.itsvg.in/api?id=ShivSinghB&icon=0&color=1)
-
+![🔥 Visitors](https://komarev.com/ghpvc/?username=ShivSinghB&label=🔥%20Visitors&color=FF69B4&style=for-the-badge)
       
 </div>
 
