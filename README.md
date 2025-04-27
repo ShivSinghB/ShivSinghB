@@ -72,7 +72,7 @@ I blend **code + creativity** to build websites that don’t just work — they 
         
 <br />
         
-![Profile Views](https://komarev.com/ghpvc/?username=ShivSinghB&label=🔥%20Visitors&color=blueviolet&style=for-the-badge)
+![Visitors](https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=for-the-badge&logo=github)
       
 </div>
 
