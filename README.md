@@ -72,7 +72,8 @@ I blend **code + creativity** to build websites that don’t just work — they 
         
 <br />
         
-![Visitors](https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=for-the-badge&logo=github)
+![Visitors](https://visitcount.itsvg.in/api?id=ShivSinghB&icon=0&color=1)
+
       
 </div>
 
