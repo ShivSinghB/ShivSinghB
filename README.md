@@ -23,7 +23,7 @@ Crafting immersive web experiences using **GSAP**, **ScrollTrigger**, **React**,
 - 🔧 Advanced **animation workflows**
 
 💬 **Ask Me About:**  
-**Spring Boot**, **Node.js**, **React**, **Tailwind CSS**, or motion magic with **GSAP**, **Lenis**, and **anime.js**
+**Spring Boot**, **Node.js**, **React**, **Tailwind CSS**, or motion magic with **GSAP**, **Lenis**, and **Locomotive-Scroll**
 
 🎨 **Fun Fact:**  
 I blend **code + creativity** to build websites that don’t just work — they **come alive** ⚡🚀
