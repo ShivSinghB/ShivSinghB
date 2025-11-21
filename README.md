@@ -37,35 +37,6 @@ I blend **code + creativity** to build websites that don’t just work — they 
 
 ---
 
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivSinghB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivSinghB&theme=tokyonight&hide_border=false&layout=compact" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShivSinghB&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivSinghB&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-### 🧠 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ShivSinghB&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 <div align="center">
       
 <img src="eye.gif" alt="Animated Eye" width="100" style="margin-bottom: 15px;" />
@@ -75,3 +46,4 @@ I blend **code + creativity** to build websites that don’t just work — they 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShivSinghB&label=Profile%20views&color=brightgreen)
       
 </div>
+
