@@ -1,12 +1,10 @@
 ﻿<!-- Cyberpunk Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,25:00BCD4,50:8B5CF6,75:06B6D4,100:10B981&height=220&section=header&text=SHIV%20SINGH%20BAGHEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=🚀%20Full%20Stack%20Developer%20|%20Animation%20Wizard%20|%20Code%20Architect&descAlignY=52&descSize=18"/>
 
-<!-- Glowing Typing Effect -->
-  <a href="https://github.com/ShivSinghB">
+  <!-- Glitch Effect Name -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=⚡+WELCOME+TO+MY+DIGITAL+UNIVERSE+⚡;Java+Full+Developer🔥;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&height=70&lines=WELCOME+TO+MY+REALM;CODE.+CREATE.+CONQUER.;BUILDING+THE+FUTURE" alt="Typing" />
 </p>
-  </a>
 
 <!-- Cyberpunk Animated Divider -->
 <p align="center">
@@ -123,3 +121,4 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> TRANSMISSION://END
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🙏;Let's+build+something+amazing!+🚀;The+future+is+now...+⚡" alt="Outro"/> </p><p align="center"> <a href="https://mastershiv.vercel.app/"> <img src="https://img.shields.io/badge/🌐_EXPLORE_PORTFOLIO-mastershiv.vercel.app-8B5CF6?style=for-the-badge&labelColor=0D1117" height="40" /> </a> </p><p align="center"> <a href="mailto:bshiv5892@gmail.com"> <img src="https://img.shields.io/badge/📧_SEND_TRANSMISSION-bshiv5892@gmail.com-06B6D4?style=for-the-badge&labelColor=0D1117" height="40" /> </a> </p><!-- Animated Eye at Bottom --><p align="center"> <img src="./eye.gif" width="100" alt="Eye"/> </p><!-- Cyberpunk Footer Wave --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=120&section=footer"/><p align="center"> <img src="https://img.shields.io/badge/CRAFTED_WITH-💜_&_☕-8B5CF6?style=for-the-badge&labelColor=0D1117" /> <img src="https://img.shields.io/badge/BY-SHIV_SINGH_BAGHEL-06B6D4?style=for-the-badge&labelColor=0D1117" /> </p><p align="center"> <img src="https://img.shields.io/badge/「_END_OF_TRANSMISSION_」-10B981?style=for-the-badge&labelColor=0D1117" /> </p> 
+
